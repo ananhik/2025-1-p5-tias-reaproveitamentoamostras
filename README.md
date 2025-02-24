@@ -6,7 +6,7 @@
 
 `1º semestre/2025`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O projeto tem como objetivo promover o reaproveitamento sustentável de amostras de grãos analisadas pela Clastec, evitando desperdícios e proporcionando um destino adequado para esses materiais. A Clastec é uma empresa especializada na classificação de produtos vegetais, oferecendo análises precisas e emissão de certificados para garantir a qualidade e a padronização de grãos no mercado. Muitas dessas amostras, após passarem por análises laboratoriais, ainda estão em condições de uso e poderão ser doadas para a comunidade interessada, incluindo projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de forma responsável. Dessa forma, o projeto busca criar uma solução eficiente para a redistribuição das amostras, garantindo que elas sejam utilizadas ao máximo dentro da cadeia produtiva e social.
 
 ## Integrantes
 
