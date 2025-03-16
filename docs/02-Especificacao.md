@@ -32,14 +32,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Funcionário da Clastec| Registrar e disponibilizar alimentos para doação | Evitar desperdício e otimizar a redistribuição |
 |Funcionário da Clastec| Confirmar com o beneficiado a separação da amostra e os detalhes para retirada. Além de atualizar o status da amostra como "Indisponível". | Evitar desperdício e otimizar a redistribuição |
 |Diretor da Clastec| Visualizar um painel de amostras disponíveis, amostras doadas e quem recebeu a doação | Acompanhar o andamento da redistribuição e ver o histórico de doações |
-|Funcionário da Clastec| Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações. | Garantir permissões adequadas no sistema |
-
-> **Links úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (user stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 common user story mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Diretor da Clastec| Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações. | Garantir permissões adequadas no sistema |
 
 ## Requisitos
 
