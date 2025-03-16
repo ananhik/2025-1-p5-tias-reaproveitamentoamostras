@@ -41,7 +41,7 @@ Os objetivos específicos incluem:
 * Notificar os interessados sobre a disponibilidade de alimentos para retirada.
 * Garantir a rastreabilidade e transparência na doação das amostras.
 * Reduzir o desperdício de alimentos, garantindo que produtos em condições de consumo sejam reaproveitados.
-* Contribuir para a segurança alimentar, facilitando o acesso de comunidades vulneráveis a alimentos essenciais
+* Contribuir para a segurança alimentar, facilitando o acesso de comunidades vulneráveis a alimentos essenciais.
 
 ## Justificativa
 
@@ -51,13 +51,10 @@ A existência de diversas ONGs, igrejas, movimentos sociais e iniciativas popula
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O ReAmostra tem como público-alvo diferentes grupos que desempenham papéis fundamentais na redistribuição e aproveitamento das amostras de grãos:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+* Clastec: A própria empresa é um dos beneficiários do sistema, pois poderá otimizar a gestão de suas amostras e reduzir desperdícios.
+* Pessoas em situação de vulnerabilidade: Indivíduos e famílias que enfrentam insegurança alimentar e que podem receber as doações de alimentos.
+* ONGs e instituições sociais: Organizações que atuam no combate à fome e que necessitam de um fluxo contínuo de doações para sustentar suas atividades.
+* Igrejas: Muitas instituições religiosas possuem programas de assistência social e distribuição de alimentos para pessoas carentes.
+* Movimentos sociais e iniciativas populares: Grupos que promovem ações de combate à fome, cozinhas comunitárias e bancos de alimentos.
