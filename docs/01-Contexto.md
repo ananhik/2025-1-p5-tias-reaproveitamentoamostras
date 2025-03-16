@@ -2,7 +2,7 @@
 
 O projeto ReAmostra tem como principal objetivo promover o reaproveitamento sustentável de amostras de grãos analisadas pela Clastec, reduzindo desperdícios e proporcionando um destino adequado a esses materiais.
 
-A Clastec é uma empresa brasileira especializada na classificação de cereais, realizando análises para garantir a qualidade e a padronização dos grãos no mercado. Durante esse processo, grandes quantidades de amostras permanecem em boas condições de uso, mas acabam sendo descartadas por falta de um sistema eficiente de redistribuição. Dessa forma, o ReAmostra busca ser uma solução para conectar essas amostras a projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de maneira responsável.
+A Clastec é uma empresa brasileira especializada na classificação de cereais, realizando análises para garantir a qualidade e a padronização dos grãos no mercado ([Fonte](https://clastec.com.br/)). Durante esse processo, grandes quantidades de amostras permanecem em boas condições de uso, mas acabam sendo descartadas por falta de um sistema eficiente de redistribuição. Dessa forma, o ReAmostra busca ser uma solução para conectar essas amostras a projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de maneira responsável.
 
 Este projeto extensionista visa gerar impacto positivo na sociedade ao transformar materiais subutilizados pela indústria em um recurso valioso para comunidades e setores produtivos. Além disso, o desenvolvimento de uma solução tecnológica para a gestão e distribuição das amostras, contribui para a eficiência e rastreabilidade no reaproveitamento.
 
@@ -41,12 +41,9 @@ Os objetivos específicos incluem:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O desperdício de alimentos e a insegurança alimentar são desafios crescentes no Brasil e em Minas Gerais. Dados recentes indicam que 40% dos moradores de dois dos principais aglomerados de Belo Horizonte enfrentam fome ou insegurança alimentar severa ([Fonte](https://www.otempo.com.br/cidades/2024/9/9/fome-afeta-40--dos-moradores-de-dois-dos-principais-aglomerados-)). Além disso, em setembro de 2024, foi sancionada a Lei nº 24.976, que institui uma política estadual de apoio às cozinhas solidárias em Minas Gerais, reforçando a necessidade de iniciativas que combatam a fome por meio da redistribuição de alimentos ([Fonte](https://www.brasildefato.com.br/2024/09/26/minas-gerais-agora-tem-lei-de-incentivo-as-cozinhas-solidarias-que-visam-o-combate-a-fome/)).
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A existência de diversas ONGs, igrejas, movimentos sociais e iniciativas populares que arrecadam e distribuem alimentos reforça a importância de garantir um fluxo contínuo de doações para suprir essa demanda. Ao mesmo tempo, a Clastec enfrenta o problema de sobras de amostras de grãos que permanecem em boas condições de uso, mas que acabam sendo descartadas pela falta de um sistema de redistribuição. Essa situação evidencia um desperdício evitável, considerando a grande demanda de alimentos por organizações sociais e populações vulneráveis.
 
 ## Público-alvo
 
