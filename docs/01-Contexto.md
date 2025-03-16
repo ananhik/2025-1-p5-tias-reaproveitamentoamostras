@@ -20,9 +20,9 @@ A empresa está localizada em Contagem/MG. Emite mais de 800 certificados por m�
 
 ## Problema
 
-A Clastec enfrenta desafios na gestão das amostras que, após as análises, não possuem um destino definido, resultando em desperdício e impacto ambiental.
+A Clastec enfrenta desafios na gestão das amostras que, após as análises, não possuem um destino definido, resultando em desperdício e impacto ambiental. Enquanto, a fome e a insegurança alimentar permanecem sendo problemas graves no Brasil e, também, na região metropolitana de BH onde a Clastec está localizada.
 
-A maior parte das amostras analisadas permanece em condições de uso, mas a ausência de um sistema estruturado para sua doação impede seu reaproveitamento. Isso resulta no desperdício de alimentos que poderiam ser destinados a comunidades necessitadas, pequenos produtores e outras iniciativas.
+A maior parte das amostras analisadas pela Clastec permanece em condições de uso, mas a ausência de um sistema estruturado para sua doação impede seu reaproveitamento. Isso resulta no desperdício de alimentos que poderiam ser destinados a comunidades necessitadas.
 
 A falta de um processo para a redistribuição dessas amostras gera:
 
@@ -38,6 +38,8 @@ Os objetivos específicos incluem:
 * Implementar um catálogo para registro de sobras de amostras da Clastec.
 * Notificar os interessados sobre a disponibilidade de alimentos para retirada.
 * Garantir a rastreabilidade e transparência na doação das amostras.
+* Reduzir o desperdício de alimentos, garantindo que produtos em condições de consumo sejam reaproveitados.
+* Contribuir para a segurança alimentar, facilitando o acesso de comunidades vulneráveis a alimentos essenciais
 
 ## Justificativa
 
