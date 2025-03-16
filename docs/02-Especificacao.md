@@ -37,8 +37,13 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir o cadastro de usuário administrador com acesso para gerenciar amostras | ALTA | 
+|RF-002| Permitir que qualquer pessoa se cadastre como usuário comum interessado em receber doações | ALTA |
+|RF-003| Permitir que o usuário comum escolha quais tipos de alimentos ele tem interesse | MÉDIA |
+|RF-004| Disponibilizar um catálogo com informações sobre as amostras disponíveis | MÉDIA |
+|RF-005| Enviar e-mail aos interessados informando novos alimentos disponíveis para doação e o como entrar em contato para receber | ALTA |
+|RF-006| Permitir que usuário administrador edite uma amostra como indisponível e registre o usuário comum que recebeu a doação | ALTA |
+|RF-007| Disponibilizar um relatório de histórico de doações e amostras disponíveis | MÉDIA |
 
 ### Requisitos não funcionais
 
