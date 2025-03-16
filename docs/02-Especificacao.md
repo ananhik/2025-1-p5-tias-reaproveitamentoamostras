@@ -16,22 +16,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |4. Patrícia Oliveira|35 anos|Diretora da Clastec|Patrícia é diretora da Clastec e precisa acompanhar o andamento do projeto para garantir que a redistribuição das amostras seja eficiente e transparente|Visualizar um painel com informações sobre amostras disponíveis, doações realizadas e instituições/pessoas beneficiadas|
 |5. Ricardo Gomes|46 anos|Funcionário da Clastec|Ricardo é responsável por definir as permissões de acesso ao sistema e gerenciar os funcionários envolvidos na redistribuição das amostras|Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações|
 
-
-
-Exemplo: _Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente por meio de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros._
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links úteis**:
-> - [Rock content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
@@ -41,8 +25,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Membro de ONG  | Receber notificações sobre alimentos disponíveis para doação e informar meu interesse em receber os alimentos | Contribuir no projeto de arrecadação e distribuição de alimentos da ONG |
 |Funcionário da Clastec| Registrar e disponibilizar alimentos para doação | Evitar desperdício e otimizar a redistribuição |
 |Funcionário da Clastec| Confirmar com o beneficiado a separação da amostra e os detalhes para retirada. Além de atualizar o status da amostra como "Indisponível". | Evitar desperdício e otimizar a redistribuição |
+|Funcionário da Clastec| Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações. | Garantir permissões adequadas no sistema |
 |Diretor da Clastec| Visualizar um painel de amostras disponíveis, amostras doadas e quem recebeu a doação | Acompanhar o andamento da redistribuição e ver o histórico de doações |
-|Diretor da Clastec| Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações. | Garantir permissões adequadas no sistema |
+
 
 ## Requisitos
 
