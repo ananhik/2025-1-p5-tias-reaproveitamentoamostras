@@ -16,6 +16,8 @@
 
 - ROCK CONTENT. Personas: guia completo para definir sua persona. Disponível em: https://rockcontent.com/blog/personas/. Acesso em: 16 mar. 2025.
 
+- ORGANIZAÇÃO DAS NAÇÕES UNIDAS NO BRASIL. FAO: 30% de toda comida produzida no mundo vai parar no lixo. 2019. Disponível em: https://brasil.un.org/pt-br/78207-fao-30-de-toda-comida-produzida-no-mundo-vai-parar-no-lixo. Acesso em: 16 mar. 2025. 
+
 > **Links úteis**:
 > - [Padrão PUC Minas de normalização ABNT](http://portal.pucminas.br/biblioteca/documentos/GUIA-COMPLETO-ABNT-Elaborar-formatar-trabalho-cientificoNOVO.pdf)
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/)
