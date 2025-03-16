@@ -8,6 +8,16 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+|PERSONA|IDADE |PROFISSÃO|DESCRIÇÃO|OBJETIVOS|
+|------|-------------------|-------------|-------------|-------------|
+|1. Maria de Jesus|38 anos|Coordenadora de ONG de segurança alimentar|Ana trabalha na administração de uma ONG que distribui alimentos para comunidades vulneráveis. Possui conhecimento básico em tecnologia e precisa de um sistema simples e funcional para receber e solicitar doações|Facilitar o acesso a doações regulares de alimentos para atender famílias em situação de vulnerabilidade|
+|2. Eduardo Martins|42 anos|Funcionário da Clastec|Eduardo é responsável pelo controle de qualidade das amostras analisadas pela Clastec. Ele precisa de uma ferramenta eficiente para gerenciar a disponibilização das amostras reaproveitáveis|Registrar e disponibilizar amostras para doação, reduzindo desperdícios|
+|3. Marcos Silva|50 anos|Funcionário da Clastec|Marcos trabalha na área de logística da Clastec e é responsável por organizar a separação das amostras e coordenar sua retirada pelos beneficiários|Confirmar com o beneficiário a retirada da amostra e atualizar o status da amostra como "Indisponível" no sistema|
+|4. Patrícia Oliveira|35 anos|Diretora da Clastec|Patrícia é diretora da Clastec e precisa acompanhar o andamento do projeto para garantir que a redistribuição das amostras seja eficiente e transparente|Visualizar um painel com informações sobre amostras disponíveis, doações realizadas e instituições/pessoas beneficiadas|
+|5. Ricardo Gomes|46 anos|Funcionário da Clastec|Ricardo é responsável por definir as permissões de acesso ao sistema e gerenciar os funcionários envolvidos na redistribuição das amostras|Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações|
+
+
+
 Exemplo: _Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente por meio de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros._
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
