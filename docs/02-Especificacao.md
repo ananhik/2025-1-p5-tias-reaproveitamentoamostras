@@ -28,10 +28,11 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuários que são relevantes para o projeto da sua solução. As histórias de usuários consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuários por contexto, para facilitar consultas recorrentes a esta parte do documento.
+|Membro de ONG  | Receber notificações sobre alimentos disponíveis para doação e informar meu interesse em receber os alimentos | Contribuir no projeto de arrecadação e distribuição de alimentos da ONG |
+|Funcionário da Clastec| Registrar e disponibilizar alimentos para doação | Evitar desperdício e otimizar a redistribuição |
+|Funcionário da Clastec| Confirmar com o beneficiado a separação da amostra e os detalhes para retirada. Além de atualizar o status da amostra como "Indisponível". | Evitar desperdício e otimizar a redistribuição |
+|Diretor da Clastec| Visualizar um painel de amostras disponíveis, amostras doadas e quem recebeu a doação | Acompanhar o andamento da redistribuição e ver o histórico de doações |
+|Funcionário da Clastec| Cadastrar os funcionários que podem gerenciar as amostras e confirmar a entrega das doações. | Garantir permissões adequadas no sistema |
 
 > **Links úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
