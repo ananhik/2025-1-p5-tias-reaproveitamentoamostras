@@ -31,7 +31,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 ## Requisitos
 
-As tabelas a seguir apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade dos requisitos, aplique uma técnica de priorização e detalhe como essa técnica foi aplicada.
+As tabelas a seguir apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade dos requisitos, eles foram classificados como obrigatórios, importantes ou opcionais.
 
 ### Requisitos funcionais
 
@@ -58,14 +58,15 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 ## Restrições
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
 O projeto está restrito aos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |001| O projeto deverá ser entregue até o final do semestre |
 |002| O custo total do projeto não deve exceder o orçamento definido       |
+|003| Deve atender às políticas de segurança alimentar e normas regulatórias|
+|004| O sistema não permitirá solicitação de doações; as doações serão feitas mediante disponibilidade da empresa|
+|005| O sistema não gerencia a entrega de amostras; a retirada será responsabilidade do beneficiado, que deve combinar com o funcionário |
 
 ## Diagrama de casos de uso
 
