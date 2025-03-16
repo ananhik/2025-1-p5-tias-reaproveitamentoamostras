@@ -7,6 +7,7 @@ A Clastec é uma empresa brasileira especializada na classificação de cereais,
 Este projeto extensionista visa gerar impacto positivo na sociedade ao transformar materiais subutilizados pela indústria em um recurso valioso para comunidades e setores produtivos. Além disso, o desenvolvimento de uma solução tecnológica para a gestão e distribuição das amostras, contribui para a eficiência e rastreabilidade no reaproveitamento.
 
 ## Cliente 
+
 A Clastec é a empresa parceira do projeto ReAmostra, colaborando para a viabilização da iniciativa. A empresa atua na classificação de cereais no Brasil, oferecendo serviços de análise e emissão de certificados. A Clastec ajuda na padronização de grãos e outros produtos vegetais, auxiliando seus clientes na tomada de decisões sobre qualidade e conformidade.
 * Missão: Oferecer serviços de classificação de cereais com precisão e agilidade, garantindo a qualidade e satisfação dos clientes.
 * Visão: Ser uma referência em classificação de cereais no mercado brasileiro.
@@ -18,6 +19,7 @@ A empresa está localizada em Contagem/MG. Emite mais de 800 certificados por m�
 * Análises Periciais: Atua em análises periciais de produtos vegetais junto ao Ministério da Agricultura.
 
 ## Problema
+
 A Clastec enfrenta desafios na gestão das amostras que, após as análises, não possuem um destino definido, resultando em desperdício e impacto ambiental.
 
 A maior parte das amostras analisadas permanece em condições de uso, mas a ausência de um sistema estruturado para sua doação impede seu reaproveitamento. Isso resulta no desperdício de alimentos que poderiam ser destinados a comunidades necessitadas, pequenos produtores e outras iniciativas.
@@ -29,12 +31,13 @@ A falta de um processo para a redistribuição dessas amostras gera:
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O objetivo geral do projeto é desenvolver um aplicativo para a gestão e redistribuição sustentável das amostras de grãos analisadas pela Clastec.
 
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Os objetivos específicos incluem:
+* Criar uma plataforma digital que conecte os interessados nas amostras reaproveitáveis à Clastec.
+* Implementar um catálogo para registro de sobras de amostras da Clastec.
+* Notificar os interessados sobre a disponibilidade de alimentos para retirada.
+* Garantir a rastreabilidade e transparência na doação das amostras.
 
 ## Justificativa
 
