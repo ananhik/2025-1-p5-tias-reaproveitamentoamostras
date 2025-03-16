@@ -2,7 +2,7 @@
 
  Esta página detalha a especificação do projeto ReAmostra, incluindo as personas envolvidas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições e o diagrama de casos de uso. A definição dessas informações tem como base a <a href="01-Contexto.md"> Documentação de contexto</a>, permitindo a construção de uma solução alinhada às necessidades dos usuários.
 
-A empresa parceira Clastec enfrenta desafios na redistribuição de amostras de grãos ainda em condições de uso, enquanto ONGs e comunidades vulneráveis necessitam de alimentos. O ReAmostra propõe uma solução digital para conectar doadores e beneficiários, permitindo que a Clastec registre doações disponíveis e informe interessados, garantindo eficiência, rastreabilidade e redução do desperdício.
+A empresa parceira, Clastec, enfrenta desafios na redistribuição de amostras de grãos ainda em condições de uso, enquanto ONGs e comunidades vulneráveis necessitam de alimentos. O ReAmostra propõe uma solução digital para conectar doadores e beneficiários, permitindo que a Clastec registre doações disponíveis e informe interessados, garantindo eficiência, rastreabilidade e redução do desperdício.
 
 ## Personas
 
