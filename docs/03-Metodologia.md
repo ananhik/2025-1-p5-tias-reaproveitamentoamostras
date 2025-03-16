@@ -62,8 +62,8 @@ Atualizado em: 16/03/2025
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Viviane        | README | 23/02/2025     | 16/03/2025  | ✔️    | 23/02/2025      |
-| Viviane        | Contexto    | 16/03/2025    | 16/03/2025 | ✔️   |      23/02/2025           |
-| Viviane        | Especificações  | 16/03/2025     | 16/03/2025 | ✔️     |          23/02/2025        |
+| Viviane        | Contexto    | 16/03/2025    | 16/03/2025 | ✔️   |      16/03/2025           |
+| Viviane        | Especificações  | 16/03/2025     | 16/03/2025 | ✔️     |          16/03/2025        |
 |     |  |         | |     |       |
 
 #### Sprint 2
