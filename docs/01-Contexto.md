@@ -2,14 +2,22 @@
 
 O projeto ReAmostra tem como principal objetivo promover o reaproveitamento sustentável de amostras de grãos analisadas pela Clastec, reduzindo desperdícios e proporcionando um destino adequado a esses materiais.
 
-A Clastec é uma empresa brasileira especializada na classificação cereais, realizando análises para garantir a qualidade e a padronização dos grãos no mercado. Durante esse processo, grandes quantidades de amostras permanecem em boas condições de uso, mas acabam sendo descartadas por falta de um sistema eficiente de redistribuição. Dessa forma, o ReAmostra busca ser uma solução para conectar essas amostras a projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de maneira responsável.
+A Clastec é uma empresa brasileira especializada na classificação de cereais, realizando análises para garantir a qualidade e a padronização dos grãos no mercado. Durante esse processo, grandes quantidades de amostras permanecem em boas condições de uso, mas acabam sendo descartadas por falta de um sistema eficiente de redistribuição. Dessa forma, o ReAmostra busca ser uma solução para conectar essas amostras a projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de maneira responsável.
 
 Este projeto extensionista visa gerar impacto positivo na sociedade ao transformar materiais subutilizados pela indústria em um recurso valioso para comunidades e setores produtivos. Além disso, o desenvolvimento de uma solução tecnológica para a gestão e distribuição das amostras, contribui para a eficiência e rastreabilidade no reaproveitamento.
 
 ## Cliente 
-Nesta seção, devem ser apresentadas informações essenciais sobre o cliente (parceiro) para garantir um entendimento mais preciso do projeto como uma iniciativa extensionista.  
+A Clastec é a empresa parceira do projeto ReAmostra, colaborando para a viabilização da iniciativa. A empresa atua na classificação de cereais no Brasil, oferecendo serviços de análise e emissão de certificados. A Clastec ajuda na padronização de grãos e outros produtos vegetais, auxiliando seus clientes na tomada de decisões sobre qualidade e conformidade.
+* Missão: Oferecer serviços de classificação de cereais com precisão e agilidade, garantindo a qualidade e satisfação dos clientes.
+* Visão: Ser uma referência em classificação de cereais no mercado brasileiro.
+* Valores: Precisão, Agilidade, Qualidade e Satisfação do Cliente.
 
-Recomenda-se incluir dados como missão, visão e valores da organização, além de seu ramo de atuação, porte, nicho de mercado e principais desafios enfrentados. Também é relevante fornecer informações sobre sua localização, histórico, impacto social e possíveis demandas específicas. Quanto mais detalhadas forem essas informações, mais embasada será a análise do contexto, permitindo uma abordagem estratégica e alinhada às necessidades do cliente.
+A empresa está localizada em Contagem/MG. Emite mais de 800 certificados por mês, atendendo mais de 200 clientes em 5 estados brasileiros. Os principais serviços prestados incluem:
+* Classificação Vegeal: Credenciada pelo Ministério da Agricultura, classifica produtos vegetais, subprodutos e resíduos de valor econômico.
+* Análises Químicas: Realiza análises físico-químicas, microbiológicas e microscópicas em parceria com laboratórios credenciados.
+* Análises Periciais: Atua em análises periciais de produtos vegetais junto ao Ministério da Agricultura.
+
+A Clastec enfrenta desafios relacionados à gestão de amostras que, após as análises, não possuem um destino definido, resultando em desperdício e impacto ambiental.
 
 ## Problema
 Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
