@@ -2,7 +2,7 @@
 
 O projeto ReAmostra tem como principal objetivo promover o reaproveitamento sustentável de amostras de grãos analisadas pela Clastec, reduzindo desperdícios e proporcionando um destino adequado a esses materiais.
 
-A Clastec é uma empresa brasileira especializada na classificação de cereais, realizando análises para garantir a qualidade e a padronização dos grãos no mercado ([Fonte](https://clastec.com.br/)). Durante esse processo, grandes quantidades de amostras permanecem em boas condições de uso, mas acabam sendo descartadas por falta de um sistema eficiente de redistribuição. Dessa forma, o ReAmostra busca ser uma solução para conectar essas amostras a projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de maneira responsável.
+A Clastec é uma empresa brasileira especializada na classificação de cereais, realizando análises para garantir a qualidade e a padronização dos grãos no mercado. Durante esse processo, grandes quantidades de amostras permanecem em boas condições de uso, mas acabam sendo descartadas por falta de um sistema eficiente de redistribuição. Dessa forma, o ReAmostra busca ser uma solução para conectar essas amostras a projetos sociais, pequenos produtores, instituições de pesquisa, famílias carentes e outras iniciativas que possam aproveitá-las de maneira responsável.
 
 Este projeto extensionista visa gerar impacto positivo na sociedade ao transformar materiais subutilizados pela indústria em um recurso valioso para comunidades e setores produtivos. Além disso, o desenvolvimento de uma solução tecnológica para a gestão e distribuição das amostras, contribui para a eficiência e rastreabilidade no reaproveitamento.
 
@@ -17,6 +17,8 @@ A empresa está localizada em Contagem/MG. Emite mais de 800 certificados por m�
 * Classificação Vegeal: Credenciada pelo Ministério da Agricultura, classifica produtos vegetais, subprodutos e resíduos de valor econômico.
 * Análises Químicas: Realiza análises físico-químicas, microbiológicas e microscópicas em parceria com laboratórios credenciados.
 * Análises Periciais: Atua em análises periciais de produtos vegetais junto ao Ministério da Agricultura.
+
+([Fonte](https://clastec.com.br/))
 
 ## Problema
 
