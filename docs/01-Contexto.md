@@ -22,11 +22,10 @@ A Clastec enfrenta desafios na gestão das amostras que, após as análises, nã
 
 A maior parte das amostras analisadas permanece em condições de uso, mas a ausência de um sistema estruturado para sua doação impede seu reaproveitamento. Isso resulta no desperdício de alimentos que poderiam ser destinados a comunidades necessitadas, pequenos produtores e outras iniciativas.
 
-A falta de um processo eficiente para a redistribuição dessas amostras acarreta:
+A falta de um processo para a redistribuição dessas amostras gera:
 
-* Desperdício de produtos vegetais com potencial de reaproveitamento.
-* Impacto ambiental negativo devido ao descarte ineficiente.
-* Oportunidades perdidas para pessoas que poderiam se beneficiar dessas amostras.
+* Oportunidades perdidas para pessoas ou instituições que poderiam se beneficiar desses alimentos.
+* Desperdício de grãos e vegetais qualificados para a alimentação humana e animal.
 
 ## Objetivos
 
