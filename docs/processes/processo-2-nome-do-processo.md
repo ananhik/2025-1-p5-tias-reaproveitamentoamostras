@@ -48,19 +48,19 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Botão de Registrar              | Início do processo de Atualizar catálogo de estoque e status    | default           |
+| Botão de Registrar              | Início da atividade de Atualizar catálogo de estoque e status    | Default           |
 
 
 **Atualizar catálogo de estoque e status**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| catálogo | Imagem/área de texto  |      Deve ser realizada automaticamente pelo sistema     |          -         |
+| Catálogo | Imagem/área de texto  |      Deve ser realizada automaticamente pelo sistema     |          -         |
 |  Status            |   Caixa de texto          |      Deve ser realizada automaticamente pelo sistema         |        -           |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Atualização do catálogo |Início do processo de Alertar fim do prazo de armazenagem obrigatória de 15 dias e status  | realizado pelo sistema |
+| Atualização do catálogo |Início da atividade de Alertar fim do prazo de armazenagem obrigatória de 15 dias e status  | Realizado pelo sistema |
 
 
 
@@ -73,7 +73,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Alerta emetido pelo sistema |Início do processo de Alertar proximidade do vencimento para amostras disponíveis | realizado pelo sistema  |
+| Alerta emetido pelo sistema |Início da atividade de Alertar proximidade do vencimento para amostras disponíveis | Realizado pelo sistema  |
 
 
 **Alertar proximidade do vencimento para amostras disponíveis**
@@ -85,7 +85,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Alerta emetido pelo sistema | Início do processo de Alertar amostras vencidas e solicitar descarte | realizado pelo sistema   |
+| Alerta emetido pelo sistema | Início da atividade de Alertar amostras vencidas e solicitar descarte | Realizado pelo sistema   |
 
 **Alertar amostras vencidas e solicitar descarte**
 
@@ -97,19 +97,19 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Alerta emetido pelo sistema | Alerta gera a solicitação de descarte |  Deve ser realizada automaticamente pelo sistema   |
-|      Solicitar descarte                 |         Início do processo de Atualizar status da amostra para vencida              |      Deve ser realizada automaticamente pelo sistema               |
+|      Solicitar descarte                 |         Início da atividade de Atualizar status da amostra para vencida              |     Realizado pelo sistema               |
 
 **Atualizar status da amostra para vencida**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| Status | área de texto  |atividade deve ser realizada pelo sistema|          -         |
+| Status | área de texto  |Deve ser realizada pelo sistema|          -         |
 
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Alerta emetido pelo sistema | Alerta gera a solicitação de descarte |  Deve ser realizada automaticamente pelo sistema   |
-|      Solicitar descarte                 |           Início do processo de Descrtar amostra vencida                 |      Deve ser realizada automaticamente pelo sistema               |
+|      Solicitar descarte                 |           Início da atividade de Descrtar amostra vencida                 |     Realizado pelo sistema               |
 
 **Descrtar amostra vencida**
 
