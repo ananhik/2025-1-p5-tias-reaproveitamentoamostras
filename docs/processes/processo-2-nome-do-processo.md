@@ -3,8 +3,7 @@
 _Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
 Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
 
-![TO BE Processo Cadastro e Gerenciamento das Amostras](../images/process.png "Modelo BPMN do Processo 2.")
-
+![image alt](https://github.com/ananhik/2025-1-p5-tias-reaproveitamentoamostras/blob/e2ecd915f5b7cc3d96bd3189e75261c4562ecf09/docs/images/WhatsApp%20Image%202025-04-06%20at%205.28.58%20PM.jpeg)
 
 #### Detalhamento das atividades
 
