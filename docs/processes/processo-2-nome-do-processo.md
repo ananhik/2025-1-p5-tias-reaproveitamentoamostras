@@ -41,7 +41,6 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-|   |                  |                |                   |
 | quantidade     | Número  | deve ser varialvel tipo inteira |           0     |
 | pedido           | Caixa de Texto   | não possui |      -     |
 | localização          | Caixa de Texto   | não possui |    -       |
@@ -49,7 +48,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Botão de Registrar              | Fim do Processo 1              | default           |
+| Botão de Registrar              | iniício do processo de Atualizar catálogo de estoque e status    | default           |
 
 
 **Atualizar catálogo de estoque e status**
@@ -61,7 +60,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Atualização do catálogo | Fim processo 2  | realizado pelo sistema |
+| Atualização do catálogo |início do processo de Alertar fim do prazo de armazenagem obrigatória de 15 dias e status  | realizado pelo sistema |
 
 
 
@@ -74,7 +73,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Alerta emetido pelo sistema | Fim do processo 3 | (realizado pelo sistema  ) |
+| Alerta emetido pelo sistema |início do processo de Alertar proximidade do vencimento para amostras disponíveis | realizado pelo sistema  |
 
 
 **Alertar proximidade do vencimento para amostras disponíveis**
@@ -86,7 +85,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| Alerta emetido pelo sistema | Fim do processo 4 | realizado pelo sistema   |
+| Alerta emetido pelo sistema | início do processo de Alertar amostras vencidas e solicitar descarte | realizado pelo sistema   |
 
 **Alertar amostras vencidas e solicitar descarte**
 
@@ -98,7 +97,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Alerta emetido pelo sistema | Alerta gera a solicitação de descarte | realizado pelo sistema   |
-|      Solicitar descarte                 |         Fim do processo 5                       |      realizado pelo sistema               |
+|      Solicitar descarte                 |         início do processo de Atualizar status da amostra para vencida              |      realizado pelo sistema               |
 
 **Atualizar status da amostra para vencida**
 
@@ -110,7 +109,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
 | Alerta emetido pelo sistema | Alerta gera a solicitação de descarte | realizado pelo sistema   |
-|      Solicitar descarte                 |         Fim do processo 6                       |      realizado pelo sistema               |
+|      Solicitar descarte                 |           início do processo de Descrtar amostra vencida                 |      realizado pelo sistema               |
 
 **Descrtar amostra vencida**
 
@@ -121,7 +120,7 @@ _* **Tabela** - campo formado por uma matriz de valores_
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| descartar amostra | Fim do processo total| realizado manualmente  |
+| descartar amostra | Fim do processo| realizado manualmente  |
 
 
 
