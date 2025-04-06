@@ -72,7 +72,7 @@ Atualizado em: 06/04/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-|  Ana Julia       | Realização do item 4 - Processo 2   | 30/03/2025    | 06/04/2025 | ✔️    | 06/04/2025     |
+|  Ana       | Realização do item 4 - Processo 2   | 30/03/2025    | 06/04/2025 | ✔️    | 06/04/2025     |
 |  Ana Julia       | Assinar carta de apresentação  | 30/03/2025    | 06/04/2025 | ✔️    | 30/03/2025     |
 
 
