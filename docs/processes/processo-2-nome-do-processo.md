@@ -1,9 +1,9 @@
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+### 3.3.2 Processo 2 – TO BE Processo Cadastro e Gerenciamento das Amostras
  
 _Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
 Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
+![TO BE Processo Cadastro e Gerenciamento das Amostras](../images/process.png "Modelo BPMN do Processo 2.")
 
 
 #### Detalhamento das atividades
@@ -37,31 +37,93 @@ _* **Link** - campo que armazena uma URL_
 
 _* **Tabela** - campo formado por uma matriz de valores_
 
-**Nome da atividade 1**
+**Registrar no sistema da amostra, quantidade, pedido, localização, validade e outros**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+|   |                  |                |                   |
+| quantidade     | Número  | deve ser varialvel tipo inteira |           0     |
+| pedido           | Caixa de Texto   | não possui |           |
+| localização          | Caixa de Texto   | não possui |           |
+| validade        | Data  | não possui |           |
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-| ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+|      |                                |                   |
+| Botão de Registrar              | Fim do Processo 1              | default           |
 
 
-**Nome da atividade 2**
+**Atualizar catálogo de estoque e status**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
+| catálogo | imagem/área de texto  |      deve ser realizada automaticamente pelo sistema     |                   |
+|  status            |   caixa de texto          |     deve ser realizada automaticamente pelo sistema         |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Atualização do catálogo | Fim processo 2  | (realizado pelo sistema) |
+|                      |                                |                   |
+
+
+**Alertar fim do prazo de armazenagem obrigatória de 15 dias e status**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Alerta | área de texto  |atividade deve ser realizada pelo sistema|                   |
 |                 |                  |                |                   |
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
+| Alerta emetido pelo sistema | Fim do processo 3 | (realizado pelo sistema  ) |
 |                      |                                |                   |
+
+**Alertar proximidade do vencimento para amostras disponíveis**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Alerta | área de texto  |atividade deve ser realizada pelo sistema|                   |
+|                 |                  |                |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Alerta emetido pelo sistema | Fim do processo 4 | (realizado pelo sistema  ) |
+|                      |                                |                   |
+
+**Alertar amostras vencidas e solicitar descarte**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Alerta | área de texto  |atividade deve ser realizada pelo sistema|                   |
+|  Solicitar descarte               |     área de texto             |      atividade deve ser realizada pelo sistema          |                   |
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Alerta emetido pelo sistema | Alerta gera a solicitação de descarte | (realizado pelo sistema  ) |
+|      Solicitar descarte                 |         Fim do processo 5                       |      (realizado pelo sistema  )             |
+
+**Atualizar status da amsotra para vencida**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Status | área de texto  |atividade deve ser realizada pelo sistema|                   |
+
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Alerta emetido pelo sistema | Alerta gera a solicitação de descarte | (realizado pelo sistema  ) |
+|      Solicitar descarte                 |         Fim do processo 6                       |      (realizado pelo sistema  )             |
+
+**Descrtar amostra vencida**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| descartar amostras vencidas| tarefa manual  |atividade deve ser manualmente|                   |
+
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| descartar amostra | Fim do processo total| (realizado manualmente ) |
+
+
+
